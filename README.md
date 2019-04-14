@@ -1,2 +1,0 @@
-# TestAngular
-Created with CodeSandbox
